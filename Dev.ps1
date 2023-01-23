@@ -1,0 +1,1 @@
+winget install --id=AutoHotkey.AutoHotkey -e -i --scope "user" ; winget install --id=GitHub.GitHubDesktop -e -i --scope "user" ; winget install --id=Microsoft.VisualStudioCode -e -i --scope "user" ; winget install --id=Figma.Figma -e -i --scope "user" ; winget install --id=OBSProject.OBSStudio -e -i --scope "user"
